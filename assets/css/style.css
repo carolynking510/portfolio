@@ -54,3 +54,13 @@ section {
     position: relative;
 }
 /* Hero Style End */
+
+.about h2 {
+    font-size: 40px;
+    margin-bottom: 35px;
+}
+
+.about p {
+    color: #000000;
+    font-size: 20px;
+}
