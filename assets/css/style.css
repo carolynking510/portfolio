@@ -55,7 +55,7 @@ section {
 }
 /* Hero Style End */
 
-.about h2 {
+.section-title {
     font-size: 40px;
     margin-bottom: 35px;
 }
@@ -63,4 +63,14 @@ section {
 .about p {
     color: #000000;
     font-size: 20px;
+}
+
+.pieces img {
+    width: 80%;
+    margin: 10px 0;
+}
+
+.pieces h3 {
+    color: #000000;
+    font-size: 25px;
 }
