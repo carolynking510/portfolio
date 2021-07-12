@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -40,3 +41,16 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+
+section {
+    padding: 60px;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero.jpeg");
+    height: 300px;
+    background-size: cover;
+    position: relative;
+}
+/* Hero Style End */
